@@ -7,6 +7,7 @@
 
 body {
     background-color: rgb(25, 190, 255);
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.3em;
 }
@@ -16,7 +17,7 @@ header {
     margin: 30px;
 }
 
-main > section {
+main section {
     background-color: white;
     border-radius: 10px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.568);
@@ -27,8 +28,20 @@ main > section {
     height: 60vh;
 }
 
+div {
+    text-align: center;
+    padding: 15px;
+}
+
+div#msg {
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+}
+
 footer {
-    color: white;
     text-align: center;
     font-style: italic;
 }
