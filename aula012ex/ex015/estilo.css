@@ -1,7 +1,17 @@
 @charset "UTF-8";
 
 * {
-    
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    border-radius: 50%;
+    height: 20vh;
+    width: 150px;
+    display: block;
+    margin: auto;
+    padding: 20px;
 }
 
 body {
@@ -20,11 +30,15 @@ main > section {
     background-color: white;
     border-radius: 10px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.568);
-    padding: 30px;
+    padding: 20px;
     margin: auto;
     margin-bottom: 30px;
-    width: 50vw;
-    height: 60vh;
+    width: 300px;
+    height: 350px;
+}
+
+p {
+    padding: 10px;
 }
 
 footer {
