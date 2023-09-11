@@ -46,3 +46,9 @@ footer {
     font-style: italic;
 }   
 
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    main section {
+        width: 70vw;
+        height: 50vh;
+    }
+}
