@@ -24,8 +24,8 @@ main section {
     padding: 25px;
     margin: auto;
     margin-bottom: 30px;
-    width: 60vw;
-    height: 60vh;
+    width: 50vw;
+    height: 50vh;
 }
 
 div {
@@ -44,4 +44,8 @@ img {
 footer {
     text-align: center;
     font-style: italic;
+}   
+
+@media screen (300px and 500px) {
+    
 }
