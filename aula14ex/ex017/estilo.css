@@ -16,21 +16,17 @@ header {
     text-align: center;
     margin: 30px;
 }
-
+ 
 main section {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
+    color: black;
     border-radius: 10px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.568);
     padding: 25px;
     margin: auto;
     margin-bottom: 30px;
-    width: 450px;
-    height: 400px;
-}
-
-div {
-    text-align: center;
-    padding: 15px;
+    width: 50vw;
+    height: 20vh;
 }
 
 footer {
