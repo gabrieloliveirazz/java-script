@@ -5,5 +5,5 @@ function fatorial(n) {
     }
     return fat
 }
-
+ 
 console.log(fatorial(5))
